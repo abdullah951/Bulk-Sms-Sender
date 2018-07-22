@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bulk Sms King</string>
+    <string name="tab_text_1">SmS</string>
+    <string name="tab_text_2">File Chooser</string>
+    <string name="tab_text_3">SmS Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="type_mess">Type your message</string>
+    <string name="description_search">plus</string>
+    <string name="description_share">delete</string>
+    <string name="delete">Delete</string>
+</resources>
